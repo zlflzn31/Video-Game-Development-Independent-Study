@@ -9,4 +9,11 @@ Through this study, I will learn basic components of Unreal Engine 4 and how to 
 
 ### Dropbox links:
 
+- Weekly Progress Deliverable Folder Link:
+This below link directs to my dropbox folder has video files which demonstrate my progress.
+https://www.dropbox.com/sh/zunehrpicvgd0zk/AADNmpegmjMfKyU0grHrk7r7a?dl=0
+
+- Weekly Progress Video Folder Link:
+This below link directs to my dropbox video files folder which demonstrate my progress.
+https://www.dropbox.com/sh/v2ues2pv8djhuc4/AACk8_ohokb2OkNe7R4ZBxMxa?dl=0
 
