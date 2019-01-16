@@ -9,7 +9,7 @@ Because I couldn't find any class that teaches about 3D game using Unreal Engine
 ### Dropbox links:
 
 - Weekly Progress Deliverable Folder Link:
-This below link directs to my dropbox folder has video files which demonstrates my progress.
+This below link directs to my dropbox folder has document files which demonstrates my progress.
 https://www.dropbox.com/sh/zunehrpicvgd0zk/AADNmpegmjMfKyU0grHrk7r7a?dl=0
 
 - Weekly Progress Video Folder Link:
