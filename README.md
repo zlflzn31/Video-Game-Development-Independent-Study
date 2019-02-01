@@ -11,6 +11,7 @@
   - Basic interactions between a player and enemies (damage, health, movement) 
 
 # Dropbox links:
+These below Dropbox links contain all weekly progress deliverables, videos files, and final project postmortem report of this video game project.  
 
 - Weekly Progress Deliverable Folder Link:
 This below link directs to my dropbox document files folder which demonstrates my progress.
