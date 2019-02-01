@@ -1,12 +1,16 @@
 # Video-Game-Development-Independent-Study
 
 
-### Purpose:
+# Purpose:
 
-Because I couldn't find any class that teaches about 3D game using Unreal Engine 4, I decided to create a class for myself. This independent study is supported by Professor Baruah and Santos. Through this study, I learn basic components of Unreal Engine 4 and how to develop a 3D FPS game and comprehend more about advanced C++. 
+- Because I couldn't find any class that teaches about 3D game using Unreal Engine 4, I decided to create a class for myself. This independent study is supported by Professor Baruah and Santos. 
 
+- ## What I learned:
+  - OOP for high level game development
+  - develop complicated AI behaviors, such as "Find Nearest Player" and "Move To Player" environmental queries to enable AI enemies to take the shortest path to a current player
+  - Basic interactions between a player and enemies (damage, health, movement) 
 
-### Dropbox links:
+# Dropbox links:
 
 - Weekly Progress Deliverable Folder Link:
 This below link directs to my dropbox document files folder which demonstrates my progress.
