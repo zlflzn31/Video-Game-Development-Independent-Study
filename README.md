@@ -7,7 +7,7 @@
 
 - ## What I learned
   - OOP for high level game development
-  - develop complicated AI behaviors, such as "Find Nearest Player" and "Move To Player" environmental queries to enable AI enemies to take the shortest path to a current player
+  - development of complicated AI behaviors, such as "Find Nearest Player" and "Move To Player" environmental queries to enable AI enemies to take the shortest path to a current player
   - Basic interactions between a player and enemies (damage, health, movement) 
 
 # Dropbox links
