@@ -3,7 +3,7 @@
 
 # Purpose
 
-- Because I couldn't find any class that teaches about 3D game using Unreal Engine 4, I decided to create a class for myself. This independent study is supported by Professor Baruah and Santos. 
+- Because I couldn't find any class that teaches about 3D game using Unreal Engine 4, I decided to create a class for myself. This independent study is supported by professor Baruah and professor Santos. 
 
 - ## What I learned
   - OOP for high level game development
