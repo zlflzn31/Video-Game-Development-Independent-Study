@@ -21,6 +21,6 @@ https://www.dropbox.com/sh/zunehrpicvgd0zk/AADNmpegmjMfKyU0grHrk7r7a?dl=0
 This below link directs to my dropbox video files folder which demonstrates my progress.
 https://www.dropbox.com/sh/v2ues2pv8djhuc4/AACk8_ohokb2OkNe7R4ZBxMxa?dl=0
 
-- If you would like to play the game, follow this link and download locally. After then, click "CoopGame.exe"
+- If you would like to play the game, follow this link and download locally. After then, unzip the folder and click "CoopGame.exe"
 https://www.dropbox.com/sh/t0imzvc29tgf6i6/AABdhMFnyN2AwYnOWLy5n1Ola?dl=0
 
