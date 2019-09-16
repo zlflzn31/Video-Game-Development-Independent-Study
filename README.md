@@ -23,3 +23,6 @@ https://www.dropbox.com/sh/v2ues2pv8djhuc4/AACk8_ohokb2OkNe7R4ZBxMxa?dl=0
 
 - If you would like to play the game, follow this link and download locally. After then, click "CoopGame.exe"
 https://www.dropbox.com/sh/t0imzvc29tgf6i6/AABdhMFnyN2AwYnOWLy5n1Ola?dl=0
+
+- To download the package game and play, go to the below link and click download on the top-left corner. 
+https://www.dropbox.com/sh/t0imzvc29tgf6i6/AABdhMFnyN2AwYnOWLy5n1Ola?dl=0
